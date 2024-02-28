@@ -25,6 +25,6 @@ Your ads could appear on the top or to the right of Bing, Yahoo, and MSN search 
 # What determines my ad position?
 Microsoft Advertising is a pay-per-click (PPC) advertising system. You bid based on how much you're willing to pay per each click on your ad. Because webpages have a limited number of places to show ads, we auction those spaces. You’re bidding against other advertisers to get your ads into the space you want. So if you bid on the keyword "shoe", you’ll have to beat the bids of the other advertisers who are also bidding on "shoe". You determine how much you’re willing to bid. Your ad position is based on several things, including:
 1. How closely your ad and website fit with the terms that are searched (relevance).
-2. How your bid compares to other bids in the Microsoft Advertising auction.
+2. How your bid compares to other bids in the [Microsoft Advertising](https://github.com/orgs/microsoft-advertising) auction.
 3. How strongly your ad has performed in the past and how often it has been clicked (click-through rate).
 The stronger you are in these areas, the better your chances of winning the top ad position.
